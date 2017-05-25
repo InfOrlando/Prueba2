@@ -21,5 +21,18 @@ namespace Prueba2
         {
             MessageBox.Show("Hola mundo");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+            MessageBox.Show("Hola mundo");
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hola mundo");
+
+        }
     }
 }
